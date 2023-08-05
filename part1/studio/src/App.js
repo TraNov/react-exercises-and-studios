@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import RecipeDescription from './components/RecipeDescription.js';
-import RecipeIngredients from './components/RecipeIngredients.js';
-import RecipeIngredients from './components/Photos.js';
+import RecipeDescription from './Components/RecipeDescription.js';
+import RecipeIngredients from './Components/RecipeIngredients.js';
+import RecipePhoto from './Components/Photos.js';
 
 function App() {
   return (
